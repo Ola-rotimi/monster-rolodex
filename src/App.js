@@ -30,6 +30,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1 className="app-title">Monster Rolodex</h1>
       <SearchBox 
         className="search-box"
         placeholder="search monsters"
